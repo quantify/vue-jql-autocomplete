@@ -1,0 +1,15 @@
+{
+  "root": true,
+  "env": { "node": true, "jest": true },
+  "extends": ["plugin:vue/essential", "@vue/standard"],
+  "parserOptions": { "parser": "babel-eslint" },
+  "rules": {
+    "no-console": "warn",
+    "quotes": ["error", "double"],
+    "space-before-function-paren": ["error", {
+      "named": "never",
+      "anonymous": "never",
+      "asyncArrow": "always"
+    }]
+  }
+}
