@@ -8108,11 +8108,6 @@ vm-browserify@^1.0.1:
   resolved "https://registry.yarnpkg.com/vm-browserify/-/vm-browserify-1.1.2.tgz#78641c488b8e6ca91a75f511e7a3b32a86e5dda0"
   integrity sha512-2ham8XPWTONajOR0ohOKOHXkm3+gaBmGut3SRuu75xLd/RRaY6vqgh8NBYYk7+RW3u5AtzPQZG8F10LHkl0lAQ==
 
-vue-autosuggest@^2.1.1:
-  version "2.1.1"
-  resolved "https://registry.yarnpkg.com/vue-autosuggest/-/vue-autosuggest-2.1.1.tgz#09db0d5cc7ce5747564b9013fa307706c6beacc3"
-  integrity sha512-yolTny/xbDQwyJ4n8w7+hh069yGsvHZRUuuxYuap5SqYkMCrbbavScQ35j2N6l6pChCcRMu5McpHENCKgfg9EA==
-
 vue-clickaway@^2.2.2:
   version "2.2.2"
   resolved "https://registry.yarnpkg.com/vue-clickaway/-/vue-clickaway-2.2.2.tgz#cecf6839575e8b2afc5d3edb3efb616d293dbb44"
@@ -8148,11 +8143,6 @@ vue-loader@^15.9.1:
     vue-hot-reload-api "^2.3.0"
     vue-style-loader "^4.1.0"
 
-vue-simple-suggest@^1.10.1:
-  version "1.10.1"
-  resolved "https://registry.yarnpkg.com/vue-simple-suggest/-/vue-simple-suggest-1.10.1.tgz#c536405c7324b624dd03626e26890ee102d59e69"
-  integrity sha512-oPpCF0KBhySOBEyxxFjsYh1DBMVypb6c7C4atLK3h8Bt8sdu+7kLgDHl2CcGGjqpMSFnmTFFDauPleYPNsaaDg==
-
 vue-style-loader@^4.1.0, vue-style-loader@^4.1.2:
   version "4.1.2"
   resolved "https://registry.yarnpkg.com/vue-style-loader/-/vue-style-loader-4.1.2.tgz#dedf349806f25ceb4e64f3ad7c0a44fba735fcf8"
@@ -8178,11 +8168,6 @@ vue@^2.6.11:
   version "2.6.11"
   resolved "https://registry.yarnpkg.com/vue/-/vue-2.6.11.tgz#76594d877d4b12234406e84e35275c6d514125c5"
   integrity sha512-VfPwgcGABbGAue9+sfrD4PuwFar7gPb1yl1UK1MwXoQPAw0BKSqWfoYCT/ThFrdEVWoI51dBuyCoiNU9bZDZxQ==
-
-vuejs-auto-complete@^0.9.0:
-  version "0.9.0"
-  resolved "https://registry.yarnpkg.com/vuejs-auto-complete/-/vuejs-auto-complete-0.9.0.tgz#a345836f17f727284d23b4fc3c63365092d39281"
-  integrity sha512-7UV3s9bXdnsbGARhHcOuDAszGUsz7JpsFKBfHQuQvo4rfH0yQIru2Rb/x2bWU+m+VW4fS9DKDSYi6tY511QSIA==
 
 watchpack@^1.6.1:
   version "1.6.1"
